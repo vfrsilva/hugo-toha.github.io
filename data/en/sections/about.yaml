@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Technical Product Manager
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Mina Foundation
+  url: "https://www.minafoundation.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
@@ -26,36 +26,23 @@ summary: 'I am a passionate software engineer with x years of working experience
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "hi@vitor.foo"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://www.github.com/vfrsilva"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/vfrsilva"
 
 - name: Twitter
   icon: "fab fa-twitter"
   url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+- name: WhatsApp
+  icon: "fab fa-whatsapp"
+  url: "https://api.whatsapp.com/send?phone=351910208663&text=Hi%20there%20Vitor%2C%20I%20found%20your%20WhatsApp%20number%20in%20vitor.foo."
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -83,17 +70,17 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
+  name: Technical Product Manager
+  percentage: 95
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Blockchain
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Fintech
   percentage: 85
   color: orange
 
